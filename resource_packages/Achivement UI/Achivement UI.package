@@ -1,0 +1,11 @@
+mod = [
+	"Achivement UI"
+]
+
+package = [
+	"resource_packages/Achivement UI/Achivement UI"
+]
+
+lua = [
+	"scripts/mods/Achivement UI/*"
+]
